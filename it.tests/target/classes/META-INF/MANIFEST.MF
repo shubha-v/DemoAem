@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1615804004787
+Bundle-Category: demo
+Bundle-Description: "Bundles for Integration Tests for demo"
+Bundle-ManifestVersion: 2
+Bundle-Name: demo - Integration Tests Bundles
+Bundle-SymbolicName: demo.it.tests
+Bundle-Version: 1.0.0.20210315102644785
+Created-By: 11.0.10 (Oracle Corporation)
+Export-Package: demo.it.tests;version="1.0";uses:="org.apache.sling.ju
+ nit.annotations,org.junit,org.junit.runner"
+Import-Package: demo.core.models;version="[1.0,2)",org.apache.sling.ap
+ i.resource;version="[2.11,3)",org.apache.sling.junit.annotations;vers
+ ion="[1.0,2)",org.apache.sling.settings;version="[1.3,2)",org.junit;v
+ ersion="[4.8,5)",org.junit.runner;version="[4.8,5)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Sling-Test-Regexp: .*Test
+Tool: Bnd-4.2.0.201903051501
+

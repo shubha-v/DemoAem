@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: hp
+Build-Jdk: 11.0.10
+Implementation-Title: demo - UI content
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.mindtree
+Content-Package-Roots: /conf/demo,/content/dam/demo,/content/demo
+Content-Package-Description: UI content package for demo
+Content-Package-Id: demo:demo.ui.content:1.0-SNAPSHOT
+Content-Package-Type: content
+
