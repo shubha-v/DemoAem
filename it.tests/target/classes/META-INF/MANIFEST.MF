@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1615804004787
+Bnd-LastModified: 1616089151385
 Bundle-Category: demo
 Bundle-Description: "Bundles for Integration Tests for demo"
 Bundle-ManifestVersion: 2
 Bundle-Name: demo - Integration Tests Bundles
 Bundle-SymbolicName: demo.it.tests
-Bundle-Version: 1.0.0.20210315102644785
+Bundle-Version: 1.0.0.20210318173911385
 Created-By: 11.0.10 (Oracle Corporation)
 Export-Package: demo.it.tests;version="1.0";uses:="org.apache.sling.ju
  nit.annotations,org.junit,org.junit.runner"

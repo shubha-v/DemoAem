@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1615803689909
+Bnd-LastModified: 1616088930890
 Bundle-Category: demo
 Bundle-Description: "Core bundle for demo"
 Bundle-ManifestVersion: 2
 Bundle-Name: demo - Core
 Bundle-SymbolicName: demo.core
-Bundle-Version: 1.0.0.20210315102129908
+Bundle-Version: 1.0.0.20210318173530889
 Created-By: 11.0.10 (Oracle Corporation)
 Export-Package: demo.core.filters;version="1.0";uses:="javax.servlet",
  demo.core.listeners;version="1.0";uses:="org.osgi.service.event",demo
